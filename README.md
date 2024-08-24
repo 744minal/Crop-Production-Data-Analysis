@@ -13,10 +13,15 @@ Based on the Given Information the ultimate goal would be to predict crop produc
 The farmer dataset consists of agricultural data used for crop disease prediction and management. It includes variables like Area, Crop, Crop_Year, District_Name, Humidity, Production, Rainfall, Season, Source.Name, State_Name, Sun hours, and Temperature. This data helps in analyzing factors affecting crop health and production across different regions and time periods, facilitating informed decision-making in agriculture.
 
 # Dashboard
-![12](https://github.com/user-attachments/assets/f911a667-7b29-4ff5-897c-e3d3eaccddb1)
+
+![Screenshot (157)](https://github.com/user-attachments/assets/efe492f6-672d-4024-a2b4-9178330cac18)
+
+
+![12](https://github.com/user-attachments/assets/0a9e25f8-3f5c-419a-ba5b-073d458d61b5)
 
 
 🛠 Tools Used
+
 ![image](https://github.com/user-attachments/assets/996074a2-9184-422b-80f6-b669e919385e)
 
 excel for Analyzing the Data
