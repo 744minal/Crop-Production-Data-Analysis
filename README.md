@@ -20,7 +20,7 @@ The farmer dataset consists of agricultural data used for crop disease predictio
 ![12](https://github.com/user-attachments/assets/0a9e25f8-3f5c-419a-ba5b-073d458d61b5)
 
 
-🛠 Tools Used
+# 🛠 Tools Used
 
 ![image](https://github.com/user-attachments/assets/996074a2-9184-422b-80f6-b669e919385e)
 
